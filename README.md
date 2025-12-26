@@ -38,18 +38,12 @@
 &gt; ⚔️ Competitive programming (LeetCode & Codeforces)
 &gt; 📊 Consistent GitHub contributions
 
-└─$ cat strengths.txt
-&gt; 🚀 Rapid MVP development
-&gt; 🧩 Strong problem decomposition
-&gt; 🔧 Debug-first mindset
-&gt; 🤝 Effective team collaboration
-
-└─$ cat hackathon_features.txt
-&gt; ⚡ Fast prototyping under tight deadlines
-&gt; 🔗 End-to-end frontend & backend integration
-&gt; 🚀 Live deployment during hackathons
-&gt; 🧪 Real-time debugging & iteration
-&gt; 🎯 Demo-first mindset (working product &gt; slides)
+└─$ cat hackathon_strengths.txt
+&gt; 🚀 Rapid MVP development & fast prototyping
+&gt; 🔗 End-to-end frontend–backend integration
+&gt; 🔧 Debug-first problem solving
+&gt; 🤝 Team collaboration under tight deadlines
+&gt; 🎯 Demo-ready builds & live deployment
 
 └─$ echo $MOTTO
 &gt; "Build fast. Think clearly. Ship reliably." ⚡
