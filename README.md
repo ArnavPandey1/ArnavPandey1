@@ -49,9 +49,9 @@
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const Arnav_Pandey = {
-    location: "India 🇮🇳",
-    role: "Software Engineer",
+const ArnavPandey = {
+    location: "India",
+    role: "Aspiring Full-Stack Developer",
     education: "Computer Science",
     currentFocus: ["DSA", "FULL STACK","AI/ML", "System Design"],
     
@@ -61,14 +61,15 @@ const Arnav_Pandey = {
         exploring: ["Blockchain", "Neural Networks"]
     },
     
-    philosophy: "Build, Break, Learn, Repeat 🔄",
+    philosophy: "Build → Break → Learn → Repeat 🔄",
     
-    lifeBalance: {
-        coding: "60%",
-        learning: "25%",
-        coffee: "15%",
-        sleep: "NaN" // Optional feature
-    }
+  SystemStatus: {
+  learning: "Active",
+  building: "Ongoing",
+  curiosity: "High",
+  sleep: "Optional"
+}
+
 };
 ```
 
