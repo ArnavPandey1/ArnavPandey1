@@ -143,6 +143,14 @@ const Arnav_Pandey = {
 
 ---
 
+## 🏆 Key Highlights
+- 💻 CS student & aspiring Full-Stack Developer  
+- 📊 650+ GitHub contributions showing consistency  
+- 🧠 Strong focus on DSA and problem solving  
+- 🚀 Actively building real-world web applications  
+- 🌱 Always learning, improving, and shipping code
+
+---
 ## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
@@ -175,6 +183,7 @@ const Arnav_Pandey = {
 </div>
 
 ---
+
 
 ## 💭 **DAILY INSPIRATION**
 
