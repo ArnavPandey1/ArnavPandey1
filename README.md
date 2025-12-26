@@ -20,27 +20,43 @@
 
 <div align="center">
 
-```bash
-┌──(Arnav㉿developer)-[~/profile]
+<pre>
+┌──(arnav@builder)-[~/profile]
 └─$ whoami
-> Software Engineer | Full Stack Developer | Problem Solver
+&gt; Full-Stack Developer | Problem Solver | Rapid Prototyper
 
 └─$ cat skills.txt
-> Languages: C++ • Java • Python • JavaScript • TypeScript
-> Frontend: React • Next.js • Tailwind CSS • Three.js
-> Backend: Node.js • Express • MongoDB • MySQL
-> Tools: Git • Docker • VS Code • Linux
+&gt; Languages : C++ • Java • Python • JavaScript • TypeScript
+&gt; Frontend  : React • Next.js • Tailwind CSS • Three.js
+&gt; Backend   : Node.js • Express • MongoDB • MySQL
+&gt; Tools     : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
+&gt; Deploy    : Vercel • Render • Firebase
+&gt; AI Tools  : Cursor AI • Bolt.new • ChatGPT • GitHub Copilot
 
 └─$ ls achievements/
-> 🏆 600+ DSA Problems Solved
-> 📊 1200+ codeforces rating 
-> 💡 1660+ leetcode rating
+&gt; 🧠 600+ DSA problems solved
+&gt; ⚔️ Competitive programming (LeetCode & Codeforces)
+&gt; 📊 Consistent GitHub contributions
+
+└─$ cat strengths.txt
+&gt; 🚀 Rapid MVP development
+&gt; 🧩 Strong problem decomposition
+&gt; 🔧 Debug-first mindset
+&gt; 🤝 Effective team collaboration
+
+└─$ cat hackathon_features.txt
+&gt; ⚡ Fast prototyping under tight deadlines
+&gt; 🔗 End-to-end frontend & backend integration
+&gt; 🚀 Live deployment during hackathons
+&gt; 🧪 Real-time debugging & iteration
+&gt; 🎯 Demo-first mindset (working product &gt; slides)
 
 └─$ echo $MOTTO
-> "Code is poetry written in logic" ✨
-```
+&gt; "Build fast. Think clearly. Ship reliably." ⚡
+</pre>
 
 </div>
+
 
 ---
 
