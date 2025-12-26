@@ -53,7 +53,7 @@ const ArnavPandey = {
     location: "India",
     role: "Aspiring Full-Stack Developer",
     education: "Computer Science",
-    currentFocus: ["DSA", "FULL STACK","AI/ML", "System Design"],
+    currentFocus: ["DSA", "FULL STACK","AI/ML","System Design"],
     
     workingOn: {
         learning: ["Advanced DSA", "Cloud Architecture"],
@@ -63,11 +63,11 @@ const ArnavPandey = {
     
     philosophy: "Build → Break → Learn → Repeat 🔄",
     
-  SystemStatus: {
-  learning: "Active",
-  building: "Ongoing",
-  curiosity: "High",
-  sleep: "Optional"
+    SystemStatus: {
+     learning: "Active",
+     building: "Ongoing",
+     curiosity: "High",
+     sleep: "Optional"
 }
 
 };
