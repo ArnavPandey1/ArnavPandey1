@@ -29,7 +29,7 @@
 &gt; Languages : C++ • Java • Python • JavaScript • TypeScript
 &gt; Frontend  : React • Next.js • Tailwind CSS • Three.js
 &gt; Backend   : Node.js • Express • MongoDB • MySQL
-&gt; Tools     : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
+&gt;   Tools   : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
 &gt; Deploy    : Vercel • Render • Firebase
 &gt; AI Tools  : Cursor AI • Bolt.new • ChatGPT • GitHub Copilot
 
