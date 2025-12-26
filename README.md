@@ -3,17 +3,18 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving
 &color=gradient
-&customColorList=6,11,20
-&height=220
+&customColorList=6,11
+&height=200
 &section=header
 &text=ARNAV%20PANDEY
-&fontSize=64
+&fontSize=60
 &fontColor=FFFFFF
 &animation=fadeIn
-&fontAlignY=35
-&desc=Aspiring%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver
-&descSize=20
-&descAlignY=55"/>
+&fontAlignY=36
+&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer
+&descSize=18
+&descAlignY=56"/>
+
 
 
 
