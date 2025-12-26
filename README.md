@@ -64,10 +64,10 @@ const ArnavPandey = {
     philosophy: "Build → Break → Learn → Repeat 🔄",
     
     SystemStatus: {
-     learning: "Active",
-     building: "Ongoing",
-     curiosity: "High",
-     sleep: "Optional"
+        learning: "Active",
+        building: "Ongoing",
+        curiosity: "High",
+        sleep: "Optional"
 }
 
 };
@@ -77,12 +77,13 @@ const ArnavPandey = {
 
 ### 💫 **Quick Facts**
 
-- 🔭 **Currently Building:** Interactive web applications & solving complex problems
-- 🌱 **Learning:** Advanced algorithms, system design, and cloud architecture
-- 💬 **Ask Me About:** Data Structures, Web Development, Problem Solving
-- 📫 **Reach Me:** [pandeyarnav1122004@gmail.com](mailto:pandeyarnav1122004@gmail.com)
-- ⚡ **Fun Fact:** I debug code faster than I debug my life choices 😄
-- 🎯 **2026 Goal:** Contribute to major open source projects & master full-stack development
+- 🔭 **Currently Building:** Interactive web applications & solving complex problems  
+- 🌱 **Learning:** Advanced algorithms, system design, and cloud architecture  
+- 💬 **Ask Me About:** Data Structures, Web Development, Problem Solving  
+- 📫 **Reach Me:** [pandeyarnav1122004@gmail.com](mailto:pandeyarnav1122004@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/arnavpandey1](https://linkedin.com/in/arnavpandey1)  
+- ⚡ **Fun Fact:** I debug code faster than I debug my life choices 😄  
+- 🎯 **2026 Goal:** Contribute to major open source projects & master DSA , AI & ML , and full-stack development  
 
 ---
 
