@@ -1,19 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving
-&color=gradient
-&customColorList=6,11
-&height=200
-&section=header
-&text=ARNAV%20PANDEY
-&fontSize=60
-&fontColor=FFFFFF
-&animation=fadeIn
-&fontAlignY=36
-&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer
-&descSize=18
-&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ARNAV%20PANDEY&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=51"/>
 
 
 
