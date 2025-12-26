@@ -1,19 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving
 &color=gradient
-&customColorList=0,6,11
-&height=230
+&customColorList=6,11,20
+&height=220
 &section=header
 &text=ARNAV%20PANDEY
-&fontSize=66
+&fontSize=64
 &fontColor=FFFFFF
-&animation=twinkling
-&fontAlignY=38
-&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20JavaScript%20%7C%20DSA
+&animation=fadeIn
+&fontAlignY=35
+&desc=Aspiring%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver
 &descSize=20
-&descAlignY=60"/>
+&descAlignY=55"/>
+
 
 
 <!-- Animated Typing Text -->
