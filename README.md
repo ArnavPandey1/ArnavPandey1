@@ -160,18 +160,6 @@ const Arnav_Pandey = {
 </div>
 
 ---
-
-## 🏆 **ACHIEVEMENTS & TROPHIES**
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ishivxnshh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-
-
 ---
 
 ## 📈 **CONTRIBUTION METRICS**
