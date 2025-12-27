@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Detailed Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS }}
+          user: Vlad1343
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: Europe/London
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes
+          config_order: base.header, isocalendar, base.activity, base.community
+          style: |
+            /* The 0.5 Ultra-Zoom */
+            svg { 
+              transform: scale(0.5); 
+              transform-origin: top center; 
+            }
+            /* Closes the large gap under the stats */
+            .container {
+              margin-bottom: -620px;
+            }
+            /* Emerald Branding */
+            .header { color: #059669; }
+            .stat { color: #059669; }
+            .field svg { fill: #059669; }
