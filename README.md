@@ -181,8 +181,6 @@ const ArnavPandey = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavPandey1&custom_title=Arnav%20Pandey's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
-
----
 ---
 
 <!-- CONTRIBUTION SNAKE (Fun Visual closer) -->
@@ -190,17 +188,17 @@ const ArnavPandey = {
 <h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
+    <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" 
+    <img alt="GitHub contribution grid snake animation"
       src="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br>
 
+---
 
 ## 📈 **CONTRIBUTION METRICS**
 
@@ -224,8 +222,6 @@ const ArnavPandey = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 
 </div>
-
----
 
 ---
 
