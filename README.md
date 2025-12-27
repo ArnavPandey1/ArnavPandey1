@@ -185,6 +185,20 @@ const ArnavPandey = {
 ---
 ---
 
+<!-- CONTRIBUTION SNAKE (Fun Visual closer) -->
+<hr>
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+------
+
 ## 📈 **CONTRIBUTION METRICS**
 
 <div align="center">
