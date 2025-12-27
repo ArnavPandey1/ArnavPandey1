@@ -186,37 +186,20 @@ const ArnavPandey = {
 ---
 
 <!-- CONTRIBUTION SNAKE (Fun Visual closer) -->
-name: Generate Contribution Snake
+<hr>
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/ArnavPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ArnavPandey1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-        env:
-          SNAKE_COLOR: "#7C3AED"
-          SNAKE_BORDER_COLOR: "#22D3EE"
-          SNAKE_BACKGROUND_COLOR: "#0F172A"
-          SNAKE_DOT_COLOR: "#38BDF8"
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: main
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br>
 
 
 ## 📈 **CONTRIBUTION METRICS**
